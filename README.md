@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kahate</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
-<img align="right" alt="code" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FOviSarkar62%2FOviSarkar62&psig=AOvVaw3yQ24nJSWvYMBx8BTCmqlx&ust=1741330859530000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDm9JTx9IsDFQAAAAAdAAAAABAb"/>
+<img align="right" alt="code" width="400" src="https://camo.githubusercontent.com/ba3ddfbd2a6dcbe703d9e4af05fe720b2f4986e1d6e1502c9c8e7c1ea97ad39a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f327579454e526d6955743041414141432f636f64696e672e676966"><img/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkahate&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkahate" /> </p>
 
